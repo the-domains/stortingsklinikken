@@ -1,0 +1,28 @@
+name: Stortingsklinikken
+favicon: null
+layout_spectrum: 0.4390667949337512
+typography_spectrum: 0.031457593431696296
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7783940192312002
+  lightness: 0.37112484499812126
+  saturation: 0.7707739539910108
+  rhythmicContrast: 0.33274426218122244
+purpose: []
