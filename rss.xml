@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Stortingsklinikken]]></title>
         <description><![CDATA[Stortingsklinikken]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stortingsklinikken/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 15:36:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 15:37:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stortingsklinikken/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Dr. Kaur har drevet med øyemedisin og -kirurgi siden 1990]]></title>
             <description><![CDATA[<article><h1>Dr. Kaur har drevet med øyemedisin og -kirurgi siden 1990</h1><p>Hun er opprinnelig fra India og har vært seksjonsoverlege ved Rikshospitalet og overlege på Ullevål universitetssykehus i mange år. Etter flere år som privatpraktiserende øyelege ved Argus øyeklinikk og Sandvika øyelegesenter i deltidsstilling, har hun siden juli 2009 drevet egen øyeklinikk i nærheten av Stortinget.</p></article>]]></description>
-            <link>undefineddr-kaur-har-drevet-med-oyemedisin-og-kirurgi-siden-1990/index.html</link>
+            <link>https://thegrid.ai/stortingsklinikken/dr-kaur-har-drevet-med-oyemedisin-og-kirurgi-siden-1990/index.html</link>
             <guid isPermaLink="false">97501f8b-fe95-49af-b68e-2f746071d8ef</guid>
-            <pubDate>Tue, 09 Feb 2016 15:36:18 GMT</pubDate>
+            <pubDate>Tue, 09 Feb 2016 15:37:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
