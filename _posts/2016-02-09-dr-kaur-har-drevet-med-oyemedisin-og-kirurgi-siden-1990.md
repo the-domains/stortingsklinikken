@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-09T15:36:18.907Z'
-dateModified: '2016-02-09T15:32:59.022Z'
+datePublished: '2016-02-09T15:37:44.050Z'
+dateModified: '2016-02-09T15:37:40.830Z'
+title: "Dr. Kaur har\_drevet med øyemedisin og -kirurgi siden 1990"
+author: []
+sourcePath: _posts/2016-02-09-dr-kaur-har-drevet-med-oyemedisin-og-kirurgi-siden-1990.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: "Dr. Kaur har\_drevet med øyemedisin og -kirurgi siden 1990"
-author: []
-sourcePath: _posts/2016-02-09-dr-kaur-har-drevet-med-oyemedisin-og-kirurgi-siden-1990.md
-published: true
 url: dr-kaur-har-drevet-med-oyemedisin-og-kirurgi-siden-1990/index.html
 _type: Article
 
