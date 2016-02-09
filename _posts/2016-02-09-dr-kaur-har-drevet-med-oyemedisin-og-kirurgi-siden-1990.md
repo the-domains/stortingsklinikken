@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-09T15:37:44.050Z'
-dateModified: '2016-02-09T15:37:40.830Z'
+datePublished: '2016-02-09T15:38:58.252Z'
+dateModified: '2016-02-09T15:38:54.884Z'
 title: "Dr. Kaur har\_drevet med øyemedisin og -kirurgi siden 1990"
 author: []
 sourcePath: _posts/2016-02-09-dr-kaur-har-drevet-med-oyemedisin-og-kirurgi-siden-1990.md
@@ -22,6 +22,8 @@ url: dr-kaur-har-drevet-med-oyemedisin-og-kirurgi-siden-1990/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e5c1029-d0f7-4e6c-bfea-8e9f2e835fa0.jpg)
+
 # Dr. Kaur har drevet med øyemedisin og -kirurgi siden 1990
 
 Hun er opprinnelig fra India og har vært seksjonsoverlege ved Rikshospitalet og overlege på Ullevål universitetssykehus i mange år. Etter flere år som privatpraktiserende øyelege ved Argus øyeklinikk og Sandvika øyelegesenter i deltidsstilling, har hun siden juli 2009 drevet egen øyeklinikk i nærheten av Stortinget.
