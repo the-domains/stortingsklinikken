@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-09T15:38:58.252Z'
+datePublished: '2016-02-09T15:38:58.397Z'
 dateModified: '2016-02-09T15:38:54.884Z'
 title: "Dr. Kaur har\_drevet med øyemedisin og -kirurgi siden 1990"
 author: []
